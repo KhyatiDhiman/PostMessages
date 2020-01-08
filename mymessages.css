@@ -1,0 +1,54 @@
+.container-fluid
+{
+	width:100%;
+    background-color:beige;
+}
+nav.navbar.navbar-expand-sm 
+{
+	background-color: rgb(73, 57, 196) !important;
+}
+a.nav-link
+{
+	color:white !important;
+	font-weight:bold;
+	font-family: 'Roboto', sans-serif;
+	font-size:20px;
+}
+#msg
+{
+	margin-top:13px;
+	font-weight:bold;
+	font-size:21px;
+}
+.form-control
+{
+	height:85px;
+	border-radius:0px;
+	border-left: 0px !important;
+	border-right:0px !important;
+}
+#content
+{
+	height:140px;
+	border-radius:0px;
+	border-top:0px !important;
+	border-left: 0px !important;
+	border-right:0px !important;
+}
+.box
+{
+	box-shadow: 0px 0px 3px 0px #6d5858;
+    box-decoration-break: slice;
+    box-sizing: content-box;
+}
+.btn-danger
+{
+	background-color: #f03c96;
+	border-color: #f48cd0;
+
+}
+#btn1
+{
+	
+	margin-left:7px;
+}
